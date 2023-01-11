@@ -39,5 +39,4 @@ function mailer($fname, $fmail, $to, $subject, $content, $type=0, $file="", $cc=
       else echo "실패";
 }
 
-
 ?>
