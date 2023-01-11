@@ -3,3 +3,8 @@
 
 ## 웹 사이트 소개
 학교 이메일 인증 후 게시판을 통해 중고 거래 및 거래 정보, 단체 활동 정보를 공유할 수 있는 사이트
+
+## ERD
+![image](https://user-images.githubusercontent.com/42926956/211806851-08c6c973-05f4-4d2b-a8fa-f3d0bbda2db3.png)
+
+
